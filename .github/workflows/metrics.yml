@@ -14,7 +14,7 @@ jobs:
         with:
           filename: github-metrics-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: ErinaOno420
+          user: salihoglueyup
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul
@@ -29,16 +29,13 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_lines: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_display: compact
 
       - name: Generate Dark Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: ErinaOno420
+          user: salihoglueyup
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Istanbul
@@ -53,6 +50,3 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_lines: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_display: compact
