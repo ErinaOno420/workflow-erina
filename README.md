@@ -87,18 +87,6 @@ I combine modern web architectures with advanced AI technologies to automate pro
 
 ---
 
-## 📊 Analytics & Impact
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-light.svg">
-    <img src="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-light.svg" alt="GitHub Metrics" width="100%">
-  </picture>
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">

@@ -87,18 +87,6 @@ Süreçleri otomatize etmek, karmaşık iş problemlerini çözmek ve değer yar
 
 ---
 
-## 📊 Analizler & İstatistikler
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-light.svg">
-    <img src="https://raw.githubusercontent.com/salihoglueyup/salihoglueyup/main/github-metrics-light.svg" alt="GitHub Metrikleri" width="100%">
-  </picture>
-</div>
-
----
-
 ## 🏆 Öne Çıkan Projeler
 
 <div align="center">
